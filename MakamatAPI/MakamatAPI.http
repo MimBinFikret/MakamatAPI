@@ -1,0 +1,6 @@
+@MakamatAPI_HostAddress = http://localhost:5078
+
+GET {{MakamatAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
